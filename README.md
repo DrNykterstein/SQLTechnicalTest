@@ -26,7 +26,7 @@ Eres el administrador de una base de datos de una plataforma de comercio electr�
 
 ---
 
-### *Parte 1: Consultas SQL Avanzadas*
+### *Parte 1: Consultas SQL*
 
 1. *Consulta 1:*  
    Escribe una consulta que devuelva el nombre del cliente, su email y el total gastado por cada cliente en pedidos realizados en el último año. Ordena los resultados de mayor a menor gasto.
