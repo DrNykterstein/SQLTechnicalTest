@@ -22,8 +22,9 @@ Eres el administrador de una base de datos de una plataforma de comercio electr√
    - id_detalle (PK)  
    - id_pedido (FK)  
    - id_producto (FK)  
-   - cantidad  
+   - cantidad
 
+![mer](https://github.com/user-attachments/assets/a4b786ba-a001-4dbd-b441-d66320b22d7d)
 ---
 
 ### *Parte 1: Consultas SQL*
