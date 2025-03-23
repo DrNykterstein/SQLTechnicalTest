@@ -1,6 +1,5 @@
 select c.nombre, c.email AS  correo, sum(p.total) as total_pedido
-from
-clientes c
+from clientes c
 INNER JOIN pedido p on p.id_clientes = c.id_clientes
 group by  c.nombre, c.email, c.id_clientes
 order by total_pedido desc
